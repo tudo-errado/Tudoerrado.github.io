@@ -1,10 +1,18 @@
-body {
-    background-color: #221169;
-    color: #f6f6f6;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
-    text-align: center;
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+body {
+    background-color: #221169;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-align: center;
+    color: #f6f6f6;
+}
 
+h1 {
+    background-color: #2d1492;
+    height: 55px;
+}
