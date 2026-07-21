@@ -1,1 +1,1 @@
-Tudoerrado.github.io
+tudo-errado.github.io
